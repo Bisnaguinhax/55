@@ -159,3 +159,4 @@ graph TD
     class SPARK_CLUSTER toolNode
     class PG_SERVER,DM_CLIENTE,DM_PRODUTO,FT_VENDAS,TB_OLIST dbNode
     class GE_VALIDATION,AUDIT_LOGS_FILES toolNode
+    ```
