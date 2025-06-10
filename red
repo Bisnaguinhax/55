@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph "1. Fontes de Dados"
         API_BC["API Banco Central (IPCA) 📈"]
